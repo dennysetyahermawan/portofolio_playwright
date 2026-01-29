@@ -1,0 +1,36 @@
+{
+    "validUser": {
+        "name": "jhon",
+        "email": "jhon1010@gmail.com",
+        "password": "jhon1230",
+        "day": "1",
+        "month": "1",
+        "year": "2021",
+        "firstName": "Jhon",
+        "lastName": "Doe",
+        "company": "PT Angkola International",
+        "address1": "Jl. Perbaungan Blok A no.123",
+        "address2": "JL. Tembung No. 456",
+        "country": "Singapore",
+        "state": "DKI Jakarta",
+        "city": "Jakarta",
+        "zipcode": "1990",
+        "mobileNumber": "08123456891"
+    },
+    "registerUser": {
+        "name": "Andre",
+        "email": "Andre1001@gmail.com",
+        "password": "andre123"
+    },
+    "invalidUser": {
+        "name": "Andre",
+        "email": "Andre2002@gmail.com",
+        "password": "budi123"
+    },
+    "contactUsData": {
+        "name": "Nicho",
+        "email": "nicho@gmail.com",
+        "subject": "Testing",
+        "message": "Get the most recent updates from our site and be updated your self"
+    }
+}
