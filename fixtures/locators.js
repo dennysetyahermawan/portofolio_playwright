@@ -68,5 +68,7 @@ export const locator = {
         searchProduct: '#search_product',
         buttonSearchProduct: '#submit_search',
         searchTitle: '.features_items'
-    }
+    },
+
+    
 }
