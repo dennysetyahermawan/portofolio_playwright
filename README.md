@@ -20,6 +20,7 @@ in designing, implementing, and maintaining automated test scenarios.
 - **POM (Page Object Model)**
 - **Allure Report**
 - **DDT (Data Driven Testing)**
+- **CI / CD**
 
 ## ▶️ How to Run the Test
 
