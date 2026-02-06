@@ -24,6 +24,8 @@ export default defineConfig({
     actionTimeout: 60 * 1000,     // click, fill, check
     navigationTimeout: 60 * 1000, // page.goto
     trace: 'on-first-retry',
+    screenshot: 'only-on-failure',
+    video: 'retain-on-failure'
   },
 
   projects: [
